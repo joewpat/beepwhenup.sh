@@ -6,7 +6,11 @@ The script has one required parameter, and that is the hostname you are trying t
 Example:
 
 mkdir beepwhenup
+
 git clone
+
 chmod +x beepwhenup.sh
+
 ./beepwhenup.sh google.com
+
 (beep)
